@@ -1,5 +1,6 @@
+#### Printing Output
        System.out.println();
-used for printing text
+
 
 #### Scanner obj = new Scanner(System.in);
 #### System.out.println("Enter the element");
