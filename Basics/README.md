@@ -8,9 +8,8 @@
 element can be Integer, String, Float etc.
 
 |Method           |          Description|
-
-|nextBoolean()    |        Used for reading Boolean value.|
 |-----------------|---------------------------------------|
+|nextBoolean()    |        Used for reading Boolean value.|
 |nextByte()       |         Used for reading Byte value.  |
 |nextDouble()     |         Used for reading Double value.|
 |nextFloat()      |         Used for reading Float value. |
