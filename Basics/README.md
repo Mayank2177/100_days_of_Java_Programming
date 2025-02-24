@@ -66,4 +66,6 @@ instance of operator     |       object instance of class/subclass/interface    
        
 #### Precedence and Associativity of Java Operators
 
+##### precedence of operators in decreasing order as magnitude, with the top representing the highest precedence and the bottom showing the lowest precedence.
+
 ![image](https://github.com/user-attachments/assets/f8412a33-d923-4a97-bcb0-c7782b17b80e)
