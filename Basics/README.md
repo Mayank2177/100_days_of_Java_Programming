@@ -1,5 +1,5 @@
 #### Printing Output
-       System.out.println();
+       System.out.println("/Enter the String/");
 
 #### Managing Input and Output
        Scanner obj = new Scanner(System.in);
@@ -20,3 +20,11 @@
 
        int element= obj.nextInt();
        System. out.println("THe element is"+ element);
+
+### TypeCasting
+
+       double var = 15.69;
+       float obj = 15.69f;
+       int mynew= (int)var;
+       int newone = (int)obj;
+
