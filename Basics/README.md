@@ -38,15 +38,17 @@ Assignment Operator      |       +=,-=,*=,/=,%=,^=,&=,|=,>>=,<<=,>>>=           
 Relational Operators     |             ==,!=,<,>,<=,>=                                                      |
 Logical Operators        |   &&, Logical AND; ||, Logical OR; !, Logical NOT                                |
 Ternary Operator         |       condition ? if true : if false                                             |
-      
-       result = ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
-       System.out.println("Max of three numbers = "+ result);
-
 Bitwise Operators        |       & (Bitwise AND); | (Bitwise OR); ^ (Bitwise XOR); ~ (Bitwise Complement)   |
 Shift Operators          |        << (Left shift); >> (Signed right shift); >>> (Unsigned right shift)      |
-       number shift_op number_of_places_to_shift; 
 instance of operator     |       object instance of class/subclass/interface                                |
 
+#### ternary operartor
+        result = ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
+       System.out.println("Max of three numbers = "+ result);
+#### shift operator
+       number shift_op number_of_places_to_shift; 
+
+#### instance of operator
        Person obj1 = new Person();
        Person obj2 = new Boy();
        System.out.println("obj1 instanceof Person: "
