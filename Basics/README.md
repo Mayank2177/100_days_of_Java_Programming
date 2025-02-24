@@ -64,3 +64,6 @@ instance of operator     |       object instance of class/subclass/interface    
        System.out.println("obj2 instanceof MyInterface: "
                            + (obj2 instanceof MyInterface));            //true
        
+#### Precedence and Associativity of Java Operators
+
+![image](https://github.com/user-attachments/assets/f8412a33-d923-4a97-bcb0-c7782b17b80e)
